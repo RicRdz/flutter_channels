@@ -1,0 +1,4 @@
+#Fri Jun 30 01:07:19 CST 2023
+base.0=/Users/jr.rodriguez/flutter_channels/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
