@@ -43,7 +43,7 @@ import Flutter
               return
             }
             if let args = call.arguments as? Dictionary<String, String>,
-                let message = args["message"] as? String {
+               let message = args["message"] {
                 self?.showToast(message: message)
                 return
             }

@@ -12,6 +12,7 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
+@Suppress("UNCHECKED_CAST")
 class MainActivity: FlutterActivity() {
 
     private val sendFromFlutterToNativeChannelName = "sendFromFlutterToNativeChannel"
